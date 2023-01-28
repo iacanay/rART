@@ -6,6 +6,11 @@ under an approximate symmetry assumption” (Canay et al. 2017) and
 further described in “A User’s Guide to Approximate Randomization Tests
 with a Small Number of Clusters” (Cai et al. 2022).
 
+# Contributors of the package
+
+Ivan A. Canay, Northwestern University
+Mathew Thomas, Northwestern University 
+
 # Installation
 
 You can install rART using the following command:
